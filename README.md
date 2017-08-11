@@ -326,4 +326,4 @@ so easy啊。但是要提一下这个异步取图片的操作。从代码中看�
 [自造小轮子：轻量级SDWebImage](http://www.jianshu.com/p/f7acc8c1eaf2)
 
 # 最后
-本次轮子的思路来源SDWebImage，本地轮子的数据文件来自YYKit。
+本次轮子的思路来源SDWebImage，本次轮子的数据文件来自YYKit。
