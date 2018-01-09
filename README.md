@@ -1,5 +1,6 @@
 # YQWebImage
 简单的异步下载图片和本地获取图片，轻量级的SDWebImage
+
 ![YQWebImage](http://upload-images.jianshu.io/upload_images/2312304-c5e5414e53515a95.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 终于，再看了多遍SDWebImage源码和多次debug之后，写出了迷你版本YQWebImage。这一次终于不再出现掉帧和内存暴涨的问题了。
